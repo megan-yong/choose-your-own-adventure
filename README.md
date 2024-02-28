@@ -6,7 +6,7 @@
 This project used Python to create a Create Your Own Adventure game with three different endings. 
 <br>
 <br>
-This was completed as part of my final year group project for the Linguistic Computations module, scoring ???. 
+This was completed as part of my final year group project for the Linguistic Computations module, scoring 72% (First-class). 
 
 <h2>Project Details</h2>
 
