@@ -12,23 +12,22 @@ This was completed as part of my final year group project for the Linguistic Com
 This game project allows players to make decisions that impact the progression of the story. The adventure includes multiple obstacles, each requiring players to make choices, including choosing weapons, that lead to different obstacles and outcomes.
 <br>
 <br>
-<h3>Key components:</h3>
-<br>
+<h3>Key Components:</h3>
 
-**1. Global variables**
+**1. Global Variables**
   - `chosen_weapon`: A global variable to store the player's chosen weapon throughout the script.
 
-**2. Typewriter effect functions**
+**2. Typewriter Effect Functions**
   - `typingWrite(text)`: Simulates a typewriter effect for displaying text.
   - `typingInput(text)`: Combines the typewriter effect with user input.
 
-**3. Screen clearing**
+**3. Screen Clearing**
   - `clearScreen()`: Clears the console screen when game has ended.
 
-**4. General restart function**
+**4. General Restart Function**
   - `General_Restart()`: A recursive call asking the player if they want to restart the game after a failure or a specific point. Handles variation of responses.
 
-**5. Adventure logic**
+**5. Adventure Logic**
   - `start_adventure(playerName)`: Initiates the adventure, presenting the player with choices to enter the castle's armory and select a weapon.
   - randomised elements: The script includes random elements, such as the troll's number and the choice of how the troll reacts.
 
