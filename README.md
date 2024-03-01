@@ -12,7 +12,7 @@ This was completed as part of my final year group project for the Linguistic Com
 This game project allows players to make decisions that impact the progression of the story. The adventure includes multiple obstacles, each requiring players to make choices, including choosing weapons, that lead to different obstacles and outcomes.
 <br>
 <br>
-<b>Key components:</b>
+<h3>Key components:</h3>
 <br>
 
 **1. Global variables**
