@@ -34,5 +34,4 @@ This game project allows players to make decisions that impact the progression o
 <h2>Remarks</h2>
 
 - Organise the code into classes and methods for better structure and readability.
-- Add comments to explain the purpose and functionality of each function and section of the code.
 - Use input validation to handle unexpected user inputs.
