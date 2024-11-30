@@ -6,7 +6,7 @@
 This project used Python to create an interactive text-based Choose Your Own Adventure game with three different endings.  The script utilised functions, dictionaries, loops, randomisation and recursive calls to implement the game's logic.
 <br>
 <br>
-This was completed as part of my final year group project for the Linguistic Computations module, scoring 72% (First-class). 
+This was completed as part of my final year group project for the Linguistic Computations module. 
 
 <h2>Project Details</h2>
 This game project allows players to make decisions that impact the progression of the story. The adventure includes multiple obstacles, each requiring players to make choices, including choosing weapons, that lead to different obstacles and outcomes.
