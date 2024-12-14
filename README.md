@@ -33,5 +33,6 @@ This game project allows players to make decisions that impact the progression o
 
 <h2>Remarks</h2>
 
+- Nov 2024 Update: Cleaned up code, fixed input return issues, added readable comments.
 - Organise the code into classes and methods for better structure and readability.
 - Use input validation to handle unexpected user inputs.
